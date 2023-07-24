@@ -50,9 +50,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Others
 IS_VERIFY = bool(environ.get('IS_VERIFY', False))
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/howtoveri")
-VERIFY2_URL = environ.get('VERIFY2_URL', "api shareus.in")
+VERIFY2_URL = environ.get('VERIFY2_URL', "api shareus.io")
 VERIFY2_API = environ.get('VERIFY2_API', "sCcneWyfy2dsLZmojP6Dlw3IFco1")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.in')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'sCcneWyfy2dsLZmojP6Dlw3IFco1')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
