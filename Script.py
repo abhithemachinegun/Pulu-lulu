@@ -199,8 +199,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @popcornpanda
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @popcornpanda
+⚠️ If Sound is Not Audible Then
+Play Video On 👉  <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">VLC Player</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
