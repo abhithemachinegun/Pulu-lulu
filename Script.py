@@ -195,13 +195,13 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🍿Movie Group:  <a href="https://t.me/AtoZmoviesflix">Click</a>
+🍿Movie Group:  <a href="https://t.me/AtoZmoviesflix">Click Here</a>
 ╰─────── • ◆ • ───────╯
 
-===========⚠️⚠️⚠️⚠️⚠️⚠️⚠️===========
+===========🔹🔹🔹🔹🔹===========
 If Sound is Not Audible Then
 Play Video On 👉  <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">VLC Player</a>
-===========⚠️⚠️⚠️⚠️⚠️⚠️⚠️===========</b>"""
+===========🔹🔹🔹🔹🔹===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
