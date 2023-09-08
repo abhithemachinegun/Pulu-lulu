@@ -195,13 +195,13 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 ownr insta :  <a href="https://instagram.com/abhi_the_machinegun?igshid=NTc4MTIwNjQ2YQ==">Tᴏᴜᴄʜ</a>
+🍿Movie Group:  <a href="https://t.me/AtoZmoviesflix">Click</a>
 ╰─────── • ◆ • ───────╯
 
-=========== • ✠ • ===========
-⚠️ If Sound is Not Audible Then
+===========⚠️⚠️⚠️⚠️⚠️⚠️⚠️===========
+If Sound is Not Audible Then
 Play Video On 👉  <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">VLC Player</a>
-=========== • ✠ • ===========</b>"""
+===========⚠️⚠️⚠️⚠️⚠️⚠️⚠️===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
